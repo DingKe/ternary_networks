@@ -1,3 +1,6 @@
+**Depricated!** The repo is based on Keras 1.2 and not maintained anymore. Check [here](https://github.com/DingKe/nn_playground/tree/master/ternarynet) if you use Keras 2.0.
+
+
 Undergoing project for ternary recurrent networks for Keras.
 
 References: 
